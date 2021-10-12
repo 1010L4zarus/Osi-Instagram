@@ -5,10 +5,10 @@
 </p>
 <p align="center"><img src="https://img.shields.io/badge/Version-2.0-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/th3unkn0n">
+  <a href="https://github.com/AstraLOL123">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
-  <a href="https://github.com/th3unkn0n/osi.ig/stargazers">
+  <a href="https://github.com/AstraLOL123/osi.ig/stargazers">
     <img src="https://img.shields.io/github/stars/th3unkn0n/osi.ig?style=social">
   </a>
 </p>
@@ -38,7 +38,7 @@ from just looking at their profile
 
 `$ pkg install -y git`
 
-`$ git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig`
+`$ git clone https://github.com/AstraLOL123/Ostin-Instagram`
 
 `$ python3 -m pip install -r requirements.txt`
 
